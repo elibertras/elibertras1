@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="index.css" type="text/css"/>
+    <link rel="stylesheet" href="pompieracceuil.css" type="text/css"/>
+    <title>Les sapeurs pompiers</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Les sapeurs-pompiers</h1>
+
+    <div>
+        <a href="pompieracceuil.html">acceuil</a>
+        <a href="histoire.html">histoire</a>
+        <a href="pompierpro.html">pompier professionnel</a>
+        <a href="pompiervol.html">pompier volontaire</a>
+        <a href="pompiermil.html">pompier militaire</a>
+        <a href="JSP.html">jeune sapeur pompier</a>
+    </div>
+    <h5>acceuil</h5>
+
+
+    <div id="mission">
+        <h3>Quels sont les missions des sapeurs pompiers ?</h3>
+        <p> les pompiers sont polyvalents, leur interventions sont principalement du secours à personne, mais ils sont également confronter au incendie urbain, naturel(foret) ils sont aussi capable d'intervenir pour les animaux </p> 
+    </div>
+    <img id="missionimg" src="./image/image_acceuil.jpg">
+    
+    <div id="type">
+        <h3 class="titre">Les différents types de sapeurs pompiers</h3>
+        <p >Il existe 3 types de sapeurs-pompiers :</p>
+        <ul>
+            <li>pompier professionel</li>
+            <li>pompier volontaire</li>
+            <li>pompier militaire</li>
+        </ul>
+        <p>Cependant leur missions reste la même : sauver des vies</p>
+    </div>
+    <img id="typeimg" src="./image/bspp_vs_bmpm.jpg">
+
+    <div id="chiffre">
+        <h3>Quelques chiffres</h3>
+        <p>79 % des sapeurs-pompiers sont des volontaires, femmes et hommes, en ville ou à la campagne, qui ont choisi de consacrer une partie de leur temps au service de leur communauté. 85% des interventions concernent du secours d’urgence aux personnes (secours aux victimes + accidents de la circulation).</p>
+    </div>
+    <img id="chiffreimg" src="./image/stats.jpg">
+
+    <div id="fin">
+        <a id="pompier" href="https://www.pompiers.fr">pompier.fr</a>
+        <p>Eli Bertras</p> 
+    </div>
+    <img id="finimg" src="./image/fnspf.png">  
+    <img id="finimg1" src="./image/odp.png">
+    <img id="finimg2" src="./image/mp.png">
+</body>
+</html>
